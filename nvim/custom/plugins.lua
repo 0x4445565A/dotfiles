@@ -16,6 +16,7 @@ local plugins = {
             ensure_installed = {
                 "rust-analyzer",
                 "gopls",
+                "pyright",
             }
         }
     },
